@@ -1,5 +1,18 @@
 # Emergency Services Data analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Exploritory Data Analysis](#exploritory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+
 ### Project overview
 
 This project analyzes Emergency Call data from the London Borough of Barnet, London, focusing on road traffic accidents. It explores trends, severity, and location patterns to improve traffic safety and urban planning insights.
@@ -47,7 +60,7 @@ ORDER BY
     Total_Accidents DESC;
 ```
 
-### Results/Findings
+### Results and Findings
 
 The analysis shows that certain road types are more associated with severe accidents (Fatal + Serious). In particular, main roads and dual carriageways tend to have higher counts of severe accidents compared to residential or minor roads. This could be due to higher traffic volumes and speeds on these road types, which increases the risk of more serious incidents.
 
@@ -77,6 +90,7 @@ These measures focus on reducing both the frequency and severity of accidents, w
 
 ### References
 
-Microsoft SQL Server 2019: A Beginner's Guide, Seventh Edition
+1. Microsoft SQL Server 2019: A Beginner's Guide, Seventh Edition
+2. Stack Overflow
 
   
