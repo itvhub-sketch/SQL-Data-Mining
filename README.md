@@ -17,6 +17,31 @@
 
 This project analyzes Emergency Call data from the London Borough of Barnet, London, focusing on road traffic accidents. It explores trends, severity, and location patterns to improve traffic safety and urban planning insights.
 
+
+
+
+
+![Road_Types](https://github.com/user-attachments/assets/9620976a-ddc5-4dad-95ce-565aea375045)
+
+### Eplanation of Road Types
+
+**Road Types** refer to the classification of roads based on function and traffic:
+
+1. **Motorways**: High-speed roads for long-distance traffic, often safer but with severe accidents.
+2. **Dual Carriageways**: Two-lane roads in each direction with central dividers, allowing high speeds.
+3. **Single Carriageways**: One lane in each direction, common in urban and rural areas.
+4. **Residential Roads**: Local roads with lower speed limits and light traffic.
+5. **Minor Roads**: Narrower, less busy roads, often in rural areas, with fewer safety features.
+6. **Roundabouts**: Circular intersections for traffic flow, designed to improve safety but prone to merging accidents.
+7. **Slip Roads**: Entrance/exit roads connecting motorways to other roads, prone to merging accidents.
+8. **One-Way Streets**: Roads with traffic moving in one direction, common in urban areas, improving flow but requiring clear marking.
+9. **Pedestrian Streets**: Roads mainly for pedestrians, found in city centers, with occasional vehicle accidents.
+
+Each road type has distinct risks based on speed, traffic, and design.
+
+
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the "cleaned_barnet_data.csv" file, The data represents road traffic accidents and includes various details, such as the severity of accidents, date and time, location coordinates, and accident conditions like weather or road surface.  
